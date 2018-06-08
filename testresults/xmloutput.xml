@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<<<<<<< HEAD
+ <testsuite name="Neo Tr LOGIN - " timestamp="2018-06-08T18:18:16" hostname="localhost" time="13.321" errors="0" tests="2" skipped="0" failures="0">
+  <testcase classname="Neo Tr LOGIN - " name="going to login" time="13.285">
+  </testcase>
+  <testcase classname="Neo Tr LOGIN - " name="should display the Titile of Login Page" time="0.033">
+  </testcase>
+ </testsuite>
+ <testsuite name="SU Details operations - " timestamp="2018-06-08T18:18:30" hostname="localhost" time="14.903" errors="0" tests="2" skipped="0" failures="0">
+  <testcase classname="SU Details operations - " name="should display the Titile of Home Page" time="3.031">
+  </testcase>
+  <testcase classname="SU Details operations - " name="Add alias" time="11.87">
+=======
+ <testsuite name="Neo Tr LOGIN - " timestamp="2018-06-05T18:39:40" hostname="localhost" time="12.932" errors="0" tests="3" skipped="0" failures="0">
+  <testcase classname="Neo Tr LOGIN - " name="going to login" time="12.565">
+  </testcase>
+  <testcase classname="Neo Tr LOGIN - " name="going to login" time="0.338">
+  </testcase>
+  <testcase classname="Neo Tr LOGIN - " name="should display the Titile of Login Page" time="0.025">
+  </testcase>
+ </testsuite>
+ <testsuite name="SU Details operations - " timestamp="2018-06-05T18:39:53" hostname="localhost" time="5.67" errors="0" tests="2" skipped="0" failures="0">
+  <testcase classname="SU Details operations - " name="should display the Titile of Home Page" time="3.027">
+  </testcase>
+  <testcase classname="SU Details operations - " name="going to clicking on buttons" time="2.641">
+>>>>>>> 497209351fa113c2fb2a9f663ea863c775a5398f
+  </testcase>
+ </testsuite>
+</testsuites>
