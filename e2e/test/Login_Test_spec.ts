@@ -19,11 +19,9 @@ describe('Neo Tr LOGIN - ', function () {
     }
     function plusprovider() {
         return [
-<<<<<<< HEAD
+
            // { username: TabsData.credentials.username1, password: TabsData.credentials.password1 },
-=======
-            { username: TabsData.credentials.username1, password: TabsData.credentials.password1 },
->>>>>>> 497209351fa113c2fb2a9f663ea863c775a5398f
+
             { username: TabsData.credentials.username2, password: TabsData.credentials.password2 }
         ];
 
